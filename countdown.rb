@@ -6,7 +6,7 @@ def countdown(count)
   
   while x > 1
     puts "#{x} SECOND(S)!"
-    coutdown_with_sleep(1)
+    coutdown_with_sleep(5)
     x -= 1
     
     
