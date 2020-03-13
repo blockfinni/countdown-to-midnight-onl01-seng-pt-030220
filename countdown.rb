@@ -14,4 +14,8 @@ def countdown(count)
   
 end
 
+def coutdown_with_sleep(y)
+  sleep(y)
+end
+
 countdown
