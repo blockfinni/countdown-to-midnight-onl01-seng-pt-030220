@@ -19,5 +19,4 @@ def coutdown_with_sleep(y)
   sleep(y)
 end
 
-countdown
-coutdown_with_sleep
+
